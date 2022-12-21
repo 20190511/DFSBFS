@@ -7,3 +7,7 @@
 ### A17. [<mark>경쟁적 전염</mark>](https://www.acmicpc.net/problem/18405)
   ---
 ### A18. [<mark>괄호 변환</mark>](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+
+=========== 
+# 배운점
+## 1. 모든 조합(중복조합) 문제는 DFS 로 풀 수 있다. (병렬적 DFS)

@@ -10,7 +10,7 @@
   ---
 ### A19. [<mark>연산자 끼워넣기</mark>](https://www.acmicpc.net/problem/14888)
   ---
-### A20. [<mark>감시 피하기</mark>](https://school.programmers.co.kr/learn/courses/30/lessons/18428)
+### A20. [<mark>감시 피하기</mark>](https://www.acmicpc.net/problem/18428)
 
 =========== 
 # 배운점

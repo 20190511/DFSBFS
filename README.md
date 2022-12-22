@@ -7,6 +7,10 @@
 ### A17. [<mark>경쟁적 전염</mark>](https://www.acmicpc.net/problem/18405)
   ---
 ### A18. [<mark>괄호 변환</mark>](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+  ---
+### A19. [<mark>연산자 끼워넣기</mark>](https://www.acmicpc.net/problem/14888)
+  ---
+### A20. [<mark>감시 피하기</mark>](https://school.programmers.co.kr/learn/courses/30/lessons/18428)
 
 =========== 
 # 배운점

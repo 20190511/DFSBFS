@@ -13,7 +13,7 @@
   ---
 ### A20. [<mark>감시 피하기</mark>](https://www.acmicpc.net/problem/18428)
   ---
-### A21. [<mark>인구 이동</mark>](https://www.acmicpc.net/problem/16324)
+### A21. [<mark>인구 이동</mark>](https://www.acmicpc.net/problem/16234)
   ---
 
   -----
